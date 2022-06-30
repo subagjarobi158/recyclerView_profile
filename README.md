@@ -1,4 +1,4 @@
-# TUGAS RECYCLER VIEW APP
+# TUGAS RECYCLER VIEW APP + SplashScreen + Profile
 
 Nama : Robi mohamad subagja
 NIM : 311910066

@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/robis/AndroidStudioProjects/Robisubagja/app/src/main/res/drawable/background_blue.xml" value="0.211" />
+        <entry key="..\:/Users/robis/AndroidStudioProjects/Robisubagja/app/src/main/res/drawable/background_btn.xml" value="0.211" />
         <entry key="..\:/Users/robis/AndroidStudioProjects/Robisubagja/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/robis/AndroidStudioProjects/Robisubagja/app/src/main/res/layout/activity_profile.xml" value="0.259375" />
         <entry key="..\:/Users/robis/AndroidStudioProjects/Robisubagja/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
         <entry key="..\:/Users/robis/AndroidStudioProjects/Robisubagja/app/src/main/res/layout/detail_data_character.xml" value="0.259375" />
         <entry key="..\:/Users/robis/AndroidStudioProjects/Robisubagja/app/src/main/res/layout/list_character.xml" value="0.259375" />
+        <entry key="..\:/Users/robis/AndroidStudioProjects/Robisubagja/app/src/main/res/menu/menu_main.xml" value="0.259375" />
       </map>
     </option>
   </component>

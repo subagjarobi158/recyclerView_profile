@@ -13,8 +13,6 @@ class Adapterpemain(private val context : Context,
     : RecyclerView.Adapter<Adapterpemain.ViewHolder>() {
 
 
-
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val binding = ListCharacterBinding.inflate(LayoutInflater.from(parent.context), parent,false)
         return ViewHolder(binding)
